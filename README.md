@@ -22,7 +22,7 @@
 - Airline professional at LATAM Airlines  
 - Passionate about technology, programming and offensive cybersecurity  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreymarqs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreymarqs/)
 
 ---
 
